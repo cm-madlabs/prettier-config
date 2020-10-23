@@ -1,0 +1,19 @@
+{
+  "name": "@cm-madlabs/prettier-config",
+  "description": "mad lab's prettier config",
+  "author": "37108",
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "index.json",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "bugs": {
+    "url": "https://github.com/cm-madlabs/prettier-config/issues"
+  },
+  "repository": "https://github.com/cm-madlabs/prettier-config"
+}

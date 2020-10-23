@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json.schemastore.org/prettierrc",
+  "tabWidth": 4,
+  "useTabs": false,
+  "jsxBracketSameLine": true,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5"
+}
